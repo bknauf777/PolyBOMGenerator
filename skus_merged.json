@@ -1,0 +1,310 @@
+{
+  "A3SV5AA#ABA": {
+    "description": "Poly Studio X32",
+    "msrp": "$2,099.00"
+  },
+  "977L6AA#ABA": {
+    "description": "Poly TC10 (black)",
+    "msrp": "$1,284.00"
+  },
+  "8D8L1AA#ABA": {
+    "description": "Poly X52 with TC10",
+    "msrp": "$4,995.95"
+  },
+  "A4MA7AA#ABA": {
+    "description": "Poly Studio X72 with TC10",
+    "msrp": "$7,626.95"
+  },
+  "A3LU8AA#ABA": {
+    "description": "Poly MTR Windows G9Plus Base Room kit (MTR PC + TC10 touch control) Need to Add camera/audio",
+    "msrp": "2699.95"
+  },
+  "842D2AA#ABA": {
+    "description": "Poly Studio R30 USB video/audio bar",
+    "msrp": "$699.95"
+  },
+  "A9DD8AA#ABA": {
+    "description": "Poly Studio V12 USB video/audio bar",
+    "msrp": "$899.00"
+  },
+  "A09D4AA#ABA": {
+    "description": "Poly Studio V52 Premium USB video/audio bar",
+    "msrp": "$3,511.00"
+  },
+  "AV1E3AA#ABA": {
+    "description": "Poly Studio V72 Premium USB video/Audio bar",
+    "msrp": "$5,851.00"
+  },
+  "A01KCAA#AC3": {
+    "description": "Poly G62 base with mount and USB-C Alt-DP cable",
+    "msrp": "$2,482.00"
+  },
+  "874R3AA": {
+    "description": "Poly IP table microphone array",
+    "msrp": ""
+  },
+  "875S1AA": {
+    "description": "Poly IP ceiling mic array",
+    "msrp": "$1,139.00"
+  },
+  "842F8AA": {
+    "description": "Poly E70 dual digital lens large room camera with full Ai Director auto-tracking",
+    "msrp": "$4,464.00"
+  },
+  "9W1A6AA#AC3": {
+    "description": "Poly E60 optical mechanical PTZ with Presentation and group framing",
+    "msrp": "$1,990.00"
+  },
+  "xxx": {
+    "description": "3rd party DSP",
+    "msrp": ""
+  },
+  "Netgear GSM4210PD M4250-9G1F-PoE+": {
+    "description": "3rd party Netgear AV PoE switch with precision Time protocol (needed if using multiple Poly IP mic arrays)",
+    "msrp": ""
+  },
+  "StarTech ST4300USBM USB hub": {
+    "description": "3rd party USB hub needed with G62 if using more than 2 USB-A devices",
+    "msrp": ""
+  },
+  "849B6AA#ABA": {
+    "description": "Poly Trio C60 Preconfigured for Teams",
+    "msrp": "$899.95"
+  },
+  "849B6AA": {
+    "description": "Poly Trio C60 Preconfigured for geenric/SIP usage, not Teams",
+    "msrp": "$899.95"
+  },
+  "875L6AA": {
+    "description": "Studio X32/V32/V12 WALL + VESA mount kit",
+    "msrp": "$112.00"
+  },
+  "875L8AA": {
+    "description": "Studio X50/X52/V52 wall mount kit",
+    "msrp": "$110.00"
+  },
+  "875L9AA": {
+    "description": "Studio X50/X52/V52 VESA mount kit",
+    "msrp": "$253.00"
+  },
+  "875L2AA": {
+    "description": "Studio X70/X72/V72 VESA mount kit",
+    "msrp": "$253.95"
+  },
+  "875L5AA": {
+    "description": "Studio V12 /X32 table stand",
+    "msrp": "$56.00"
+  },
+  "875M0AA": {
+    "description": "Studio X50/X52/V52 table stand",
+    "msrp": "$110.00"
+  },
+  "875L3AA": {
+    "description": "Studio X70/X72/V72 table stand",
+    "msrp": "$131.95"
+  },
+  "875K8AA": {
+    "description": "E70 display clamp",
+    "msrp": "$105.00"
+  },
+  "875M6AA": {
+    "description": "Analog expansion mic for Studio USB/X50/X52/V52/X70/X72/V72",
+    "msrp": "$234.00"
+  },
+  "875M4AA": {
+    "description": "Dongle kit convert to CAT5/6 for Analog expansion mic of Studio USB/X50/X52/V52/X70/X72/V72",
+    "msrp": "$90.00"
+  },
+  "85X02AA": {
+    "description": "Trio C60 expansion mic kit (includes 2 mics)",
+    "msrp": "$212.95"
+  },
+  "9D9R3AA": {
+    "description": "Zoom Room PC solution with HP PC Small Zoom Room image bundled with TC10 touch control",
+    "msrp": ""
+  },
+  "9D9R1AA": {
+    "description": "Zoom Room PC solution with HP PC Medium Zoom Room image bundled with TC10 touch control",
+    "msrp": ""
+  },
+  "9D9Q9AA": {
+    "description": "Zoom Room PC solution with HP PC Large Zoom Room image bundled with TC10 touch control",
+    "msrp": ""
+  },
+  "874R8AA": {
+    "description": "Bluetooth Remote control for Studio USB/R30/V series",
+    "msrp": "$151.95"
+  },
+  "B5NH6AA": {
+    "description": "PoE power injector for X32/V12",
+    "msrp": ""
+  },
+  "A02F7AA": {
+    "description": "PoE power injector for G62",
+    "msrp": ""
+  },
+  "UE1Q8PV": {
+    "description": "1 yr PolyPlus X32",
+    "msrp": "$199.95"
+  },
+  "P37760112": {
+    "description": "1 yr PolyPlus TC10",
+    "msrp": "$121.95"
+  },
+  "P87625112": {
+    "description": "1 yr  PolyPlus X52 w TC10",
+    "msrp": "$304.95"
+  },
+  "U86MNPV": {
+    "description": "1 yr PolyPlus V52",
+    "msrp": "$179.95"
+  },
+  "U98SXPV": {
+    "description": "1 yr PolyPlus X72 with TC10 touch control",
+    "msrp": "$399.95"
+  },
+  "U98X0PV": {
+    "description": "1 year PolyPlus V72",
+    "msrp": "$279.95"
+  },
+  "U86WDPV": {
+    "description": "1 yr PolyPlus G62 w mount and USB-C ALT-DP cable",
+    "msrp": "$199.95"
+  },
+  "P69390112": {
+    "description": "1 yr PolyPlus R30",
+    "msrp": "$60.95"
+  },
+  "UE1X6PV": {
+    "description": "1 yr PolyPlus V12",
+    "msrp": "$99.95"
+  },
+  "P86240112": {
+    "description": "1 yr PolyPlus Trio C60",
+    "msrp": "$35.60"
+  },
+  "P87090112": {
+    "description": "1 yr PolyPlus E70 dual lens camera",
+    "msrp": "$285.95"
+  },
+  "U86LCPV": {
+    "description": "1 yr PolyPlus E60 Camera",
+    "msrp": "$169.95"
+  },
+  "U95J8PV": {
+    "description": "1yr PolyPlus G9Plus MTR Base kit (MTR PC and TC10)",
+    "msrp": "$219.95"
+  },
+  "P88140112": {
+    "description": "1 yr PolyPlus Zoom Room PC solution small room",
+    "msrp": "$202.95"
+  },
+  "P88150112": {
+    "description": "1 yr PolyPlus Zoom Room PC solution medium room",
+    "msrp": "$304.95"
+  },
+  "P88160112": {
+    "description": "1 yr PolyPlus Zoom Room PC solution large room",
+    "msrp": "$406.95"
+  },
+  "UE1Q9PV": {
+    "description": "3 yr PolyPlus X32",
+    "msrp": "$539.95"
+  },
+  "P37760312": {
+    "description": "3 yr PolyPlus TC10",
+    "msrp": "$328.95"
+  },
+  "P87625312": {
+    "description": "3 yr  PolyPlus X52 w TC10",
+    "msrp": "$823.95"
+  },
+  "U86MQPV": {
+    "description": "3 yr PolyPlus V52",
+    "msrp": "$485.95"
+  },
+  "U98SYPV": {
+    "description": "3 yr PolyPlus X72 with TC10 touch control",
+    "msrp": "$1,079.95"
+  },
+  "U98X1PV": {
+    "description": "3 year PolyPlus V72",
+    "msrp": "$755.95"
+  },
+  "U77D3PV": {
+    "description": "3 yr PolyPlus G62 w mount and USB-C ALT-DP cable",
+    "msrp": "$539.95"
+  },
+  "P69390312": {
+    "description": "3 yr PolyPlus R30",
+    "msrp": "$164.95"
+  },
+  "UE1X7PV": {
+    "description": "3 yr PolyPlus V12",
+    "msrp": "$269.95"
+  },
+  "P86240312": {
+    "description": "3 yr PolyPlus Trio C60",
+    "msrp": "$96.95"
+  },
+  "P87090312": {
+    "description": "3 yr PolyPlus E70 dual lens camera",
+    "msrp": "$769.95"
+  },
+  "U86LDPV": {
+    "description": "3 yr PolyPlus E60 Camera",
+    "msrp": "$458.95"
+  },
+  "U95J9PV": {
+    "description": "3 yr PolyPlus G9Plus MTR Base kit (MTR PC and TC10)",
+    "msrp": "$593.95"
+  },
+  "P88140312": {
+    "description": "3 yr PolyPlus Zoom Room PC solution small room",
+    "msrp": "$548.95"
+  },
+  "P88150312": {
+    "description": "3 yr PolyPlus Zoom Room PC solution medium room",
+    "msrp": "$823.95"
+  },
+  "P88160312": {
+    "description": "3 yr PolyPlus Zoom Room PC solution large room",
+    "msrp": "$1,097.95"
+  },
+  "PROSTDIOXR2": {
+    "description": "Poly Studio X remote implementation",
+    "msrp": "$355.95"
+  },
+  "PROG7500RE2": {
+    "description": "Poly G7500/G62 remote implementation",
+    "msrp": "$355.95"
+  },
+  "PROECOSYS02": {
+    "description": "Poly ECOsystem remote implementation (For Teams/Zoom room PC based solutions)",
+    "msrp": "$508.95"
+  },
+  "PROSMTHND04": {
+    "description": "Onsite SmartHands uplift to add to remote sku to make it onsite engagement",
+    "msrp": "$914.95"
+  },
+  "GSM4210PD M4250-9G1F-PoE+": {
+    "description": "3rd party Netgear AV PoE switch with precision Time protocol (needed if using multiple Poly IP mic arrays)",
+    "msrp": ""
+  },
+  "B22X2AA#AC3": {
+    "description": "Poly Studio A2 Audio Bridge",
+    "msrp": "$549.00"
+  },
+  "B22X4AA#AC3": {
+    "description": "Poly Studio A2 Table Microphone - White",
+    "msrp": "$336.00"
+  },
+  "B22X6AA#AC3": {
+    "description": "Poly Studio A2 Table Microphone - Black",
+    "msrp": "$336.00"
+  },
+  "B42BDAA": {
+    "description": "Black Cable Extender for A2 Table Mic Male to Female Phoenix Connector 8M(26ft)",
+    "msrp": ""
+  }
+}
